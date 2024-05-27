@@ -70,7 +70,7 @@ function App() {
             </div>
             <div>
               <h4 className="font-bold mb-2">Serviços</h4>
-              {/* Adicione links para páginas de serviços */}
+             
             </div>
             <div>
               <h4 className="font-bold mb-2">Termos e condições</h4>
